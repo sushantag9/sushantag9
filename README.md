@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm [Sushant Agarwal](https://sushantag9.github.io/) a BTech student and an AI enthusiast from UP, India. 
+
