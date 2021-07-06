@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **sushantag9/sushantag9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 -->
 
 
-I'm [Sushant Agarwal](https://sushantag9.github.io/) a student and an AI enthusiast from UP, India. 
+ I'm *[Sushant Agarwal](https://sushantag9.github.io/)* a student and an AI enthusiast from UP, India. 
 
 ### 🧐 More About Me:
 
@@ -25,9 +26,6 @@ I'm [Sushant Agarwal](https://sushantag9.github.io/) a student and an AI enthusi
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sushantag9?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sushantag9/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-
-
 
 ### 🔨 Languages and Tools:
 
